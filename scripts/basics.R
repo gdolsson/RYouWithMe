@@ -25,3 +25,7 @@ tail(beaches)
 summary(beaches)
 # Skimr ---------
 skim(beaches)
+
+select_all(beaches, toupper)
+select_all(beaches, tolower)
+
